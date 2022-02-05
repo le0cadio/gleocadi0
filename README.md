@@ -1,4 +1,4 @@
-## Print("Hello, I'm Guilherme, but you can call me Leo (if you want) ")
+## Hello, I'm Guilherme, but you can call me Leo (if you want)
 
 
 - 🔭 Game Backend Dev 
