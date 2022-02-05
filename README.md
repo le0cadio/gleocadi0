@@ -1,16 +1,19 @@
-### Hi there 👋
+## Print("Hello, I'm Guilherme, but you can call me Leo (if you want) ")
 
-<!--
-**gleocadi0/gleocadi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Game Backend Dev 
+- 🌱 Studyng Kotlin
+- 📫 u can find-me on email: guilhermeaika99@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: yugi muto has the best swag ever
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/gleocadi0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleocadi0&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleocadi0&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+  <a href = "mailto:guilhermeaika99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
