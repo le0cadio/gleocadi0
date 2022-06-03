@@ -2,10 +2,11 @@
 
 
 - 🔭 Game Backend Dev 
-- 🌱 Studyng Kotlin
+- 🌱 Studyng Kotlin, Java
+- 👾 Future gameDev
 - 📫 u can find-me on email: guilhermeaika99@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: yugi muto has the best swag ever
+
 
 
 <div align="center">
