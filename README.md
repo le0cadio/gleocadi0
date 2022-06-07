@@ -3,7 +3,7 @@
 
 - 🔭 Game Backend Dev 
 - 🌱 Studyng Kotlin and C#
-- 👾 Future gameDev
+- 👾 Gamedev in construction
 - 📫 u can find-me on email: guilhermeaika99@gmail.com
 - 😄 Pronouns: he/him
 
