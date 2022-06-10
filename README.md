@@ -1,11 +1,11 @@
 ## Hello, I'm Guilherme, but you can call me Leo (if you want)
 
-
-- 🔭 Game Backend Dev 
-- 🌱 Studyng Kotlin and C#
-- 👾 Gamedev in construction
-- 📫 u can find-me on email: guilhermeaika99@gmail.com
 - 😄 Pronouns: he/him
+- 🔭 Game Dev / backend Dev
+- 🌱 Studyng Kotlin and C#
+- 👾 trying to be a gamedev  
+- 📫 u can find-me on email: guilhermeaika99@gmail.com
+
 
 
 
