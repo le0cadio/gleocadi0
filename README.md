@@ -1,10 +1,14 @@
-## Hello, I'm Guilherme, but you can call me Leo (if you want)
+# Hello, I'm Guilherme, but you can call me Leo (if you want)
 
-- 😄 Pronouns: he/him
-- 🔭 Game Dev / backend Dev
+- 😄 Pronouns: He/Him
+- 🔭 Game Dev / Backend Dev
 - 🌱 Studyng Kotlin and C#
 - 👾 trying to be a gamedev  
 - 📫 u can find-me on email: guilhermeaika99@gmail.com
+
+
+# My Unity learning profile 
+https://learn.unity.com/u/gleocadi0
 
 
 
