@@ -4,7 +4,7 @@
 - 🔭 Game Dev / Backend Dev
 - 🌱 Studyng Kotlin and C#
 - 👾 trying to be a gamedev  
-- 📫 u can find-me on email: guilhermeaika99@gmail.com
+- 📫 find-me on email: guilhermeaika99@gmail.com
 
 
 # My Unity learning profile 
