@@ -7,10 +7,6 @@
 - 📫 find-me on email: guilhermeaika99@gmail.com
 
 
-# My Unity learning profile 
-https://learn.unity.com/u/gleocadi0
-
-
 
 
 <div align="center">
