@@ -1,4 +1,4 @@
-# Hello, I'm Guilherme, but you can call me Leo (if you want)
+# Hello, I'm Guilherme, but you can call me Leo
 
 - 😄 Pronouns: He/Him
 - 🔭 Game Dev / Backend Dev
