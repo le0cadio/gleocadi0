@@ -1,4 +1,4 @@
-# Hello, I'm Guilherme
+# Hello, I'm Leo
 
 - 😄 Pronouns: He/Him
 - 🔭 Game Dev / Backend Dev
