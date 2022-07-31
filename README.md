@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 Game Dev / Backend Dev
 - 🌱 Studyng Kotlin and C#
-- 👾 trying to be a gamedev  
+- 👾 Gamedev and Backend software engineer  
 - 📫 find-me on email: guilhermeaika99@gmail.com
 
 
