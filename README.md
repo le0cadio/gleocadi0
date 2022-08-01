@@ -1,5 +1,4 @@
  I'm Leo
-- 😄 Pronouns: He/Him
 - 🔭 Game Dev / Backend Dev
 - 🌱 Studyng Kotlin and C#
 - 👾 Gamedev and Backend software engineer  
