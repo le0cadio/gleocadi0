@@ -1,4 +1,8 @@
-- 🔭 Game Dev / Backend Dev
+About Me 🤔
+My name is Guilherme Leocadio, I was born in Brazil, in 2001, and currently I live in São Paulo. I study computer science bachelor and sometimes I make cool things with it
+
+
+- 🔭 Game Developer / Backend Developer
 - 🌱 Studyng Kotlin and C#
 - 👾 Gamedev and Backend software engineer  
 
