@@ -1,10 +1,10 @@
 About Me 🤔
-My name is Guilherme Leocadio, I was born in Brazil, in 2001, and currently I live in São Paulo. I study computer science bachelor and sometimes I make cool things with it
+
+- My name is Guilherme Leocadio, I was born in Brazil, in 2001, and currently I live in São Paulo. I study computer science bachelor and sometimes I make cool things with it
 
 
-- 🔭 Game Developer / Backend Developer
+- 🔭 Game Developer / Backend software engineer
 - 🌱 Studyng Kotlin and C#
-- 👾 Gamedev and Backend software engineer  
 
 
 <div align="center">
