@@ -16,5 +16,3 @@ feel free to contact me at
   <a href = "mailto:guilhermeaika99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </br>
-  
-  <p align+"center"> <igm align+"center" src="https://profile-counter.glitch.me/le0cadio/count.svg" /></p>
