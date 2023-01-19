@@ -13,6 +13,6 @@ About Me 🤔
   ##
 feel free to contact me at
 
-  <a href = "mailto:guilhermeaika99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:le0cadio@pm.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </br>
