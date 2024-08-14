@@ -4,7 +4,7 @@ About Me 🤔
 - My name is Leo, I was born in Brazil, and currently I live in São Paulo. I graduated in computer science bachelor and sometimes I make cool things with it
 
 
-- 🔭 Game Developer /  Software Engineer / IT Operations 
+- 🔭   Software Engineer / DevOPS
 
   
   ##
